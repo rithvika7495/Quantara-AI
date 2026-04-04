@@ -1,7 +1,3 @@
-Here’s a clean, professional, and polished **README.md** you can directly use (GitHub-ready, structured, and impactful):
-
----
-
 # 🚀 Quantara_AI
 
 **Quantara_AI** is an AI-powered agentic analytics system that transforms natural language queries into SQL, executes them on high-performance databases, and returns actionable insights, trends, and predictions.
