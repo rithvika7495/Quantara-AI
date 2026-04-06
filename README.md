@@ -193,7 +193,3 @@ Built with a strong focus on **real-world AI systems**, **agentic workflows**, a
 ## 🌟 Vision
 
 Quantara_AI aims to bridge the gap between **business users and data systems**, enabling anyone to extract insights from data using just natural language.
-
-
-* Add **badges + architecture diagram + screenshots section**
-* Or convert this into a **portfolio project pitch (for Apple-level roles)**
