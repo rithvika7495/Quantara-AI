@@ -1,6 +1,6 @@
-# 🚀 Quantara_AI
+# 🚀 Agentic Analytics
 
-**Quantara_AI** is an AI-powered agentic analytics system that transforms natural language queries into SQL, executes them on high-performance databases, and returns actionable insights, trends, and predictions.
+**Agentic Analytics** is an AI-powered agentic analytics system that transforms natural language queries into SQL, executes them on high-performance databases, and returns actionable insights, trends, and predictions.
 
 It combines **LLM-driven query understanding** with **DuckDB analytics** to deliver a scalable, intelligent, and production-ready data analysis engine.
 
